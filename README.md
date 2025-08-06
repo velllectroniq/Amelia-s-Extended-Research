@@ -1,4 +1,4 @@
-<img width="223" height="151" alt="image" src="https://github.com/user-attachments/assets/4814519d-7240-4cfe-be56-1458378d26c9" /># Amelia's Extended Research
+# Amelia's Extended Research
 Infinitode 2 Mod focused on Endless Research, adding 90,298 new research levels, which is an increase of 627% over the vanilla game.
 The mod extends _ONLY_ the Endless Research, leaving the Normal Research Tree untouched. For now, the extension is limited to adding new levels to the already existing research, and slightly adjusting some of them, to make the overall research experience more enjoyable/rewarding.
 
@@ -14,7 +14,9 @@ _Remember to use this mod only for single player experience - any use of modific
 __AEE__ (Amelia's Extended Research, also known as the mod you're currently viewing) increases most Endless' Research maximal level to 255 (while in the vanilla game, there is only one reseach that goes that far). This essentially means that all Towers, Modifiers, Miners, and virtually all aspects of the original game get their statistic and values significantly increased.
 
 This graphic illustrates it the best:
+
 <img width="223" height="151" alt="image" src="https://github.com/user-attachments/assets/3440bf48-c599-4ee9-8603-8a5257eba253" />
+
 - Light blue squares indicate limitless research (research that goes up to level 255 and possibly beyond...)
 - Red squares show research that was changed, but which can't go up to level 255 because it would break the game (by allowing a division by 0 for example) or wouldn't make any sense (chance of something happening being bigger than 100%), which means that the research is in some way limited, but rest easy knowing that it was for a good reason
 - Gold squares indicate research that didn't change compared to vanilla
