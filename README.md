@@ -11,13 +11,13 @@ _Remember to use this mod only for single player experience - any use of modific
 &nbsp;
 
 ## OK, but what, why, who, how, where, when, which...
-__AEE__ (Amelia's Extended Research, also known as the mod you're currently viewing) increases most Endless' Research maximal level to 255 (while in the vanilla game, there is only one reseach that goes that far). This essentially means that all Towers, Modifiers, Miners, and virtually all aspects of the original game get their statistic and values significantly increased.
+__AEE__ (Amelia's Extended Research, also known as the mod you're currently viewing) increases most Endless' Research maximal level to 255 (while in the vanilla game, there is only one reseach that goes that far). This essentially means that all Towers, Modifiers, Miners, and virtually all aspects of the original game get their statistics and values significantly increased.
 
 This graphic illustrates it the best:
 
 <img width="1115" height="755" alt="image" src="https://github.com/user-attachments/assets/ebfa84a1-06f7-4578-8dcb-9d06f8bd576e" />
 
-- Light blue squares indicate limitless research (research that goes up to level 255 and possibly beyond...)
+- Light blue squares indicate limitless research (research that goes up to level 255 (and possibly beyond...))
 - Red squares show research that was changed, but which can't go up to level 255 because it would break the game (by allowing a division by 0 for example) or wouldn't make any sense (chance of something happening being bigger than 100%), which means that the research is in some way limited, but rest easy knowing that it was for a good reason
 - Gold squares indicate research that didn't change compared to vanilla
 
@@ -39,7 +39,7 @@ p.s. when I say a 'healthy supply', I do mean a _rather large_ supply, because t
 ### 0. If you don't already, download Infinitode 2
 This mod is intended for use in the Infinitode 2 game, and with any other game there is a possibility that it won't work
 
-### 1. Creating a new Infinitode 2 Instance
+### 1. Creating a new instance of Infinitode 2
 Go to the Infinitode 2 Steam page in your library, and go to `Settings > Manage > Browse local files`:
 
 This should open a file explorer with a file path to a steam folder simmilar to `...Steam\steamapps\common\Infinitode 2`
@@ -57,7 +57,8 @@ If you just wanted to extend the research tree, it's done - running `Infinitode 
 ### 2. Moving saves to the new instance
 If you want to continue your journey with Infinitode 2, but with more (possible) Research, go back to `...Steam\steamapps\common\Infinitode 2`, and copy the `...Steam\steamapps\common\Infinitode 2\saves` into `Infinitode 2 Modded AEE\saves`. This copies all of your previous progress into the modified game
 
-That should be it.
+### 3. Modifying an existing modded instance of Infinitode 2
+If you have a already working local instance of Infinitode 2, you should be just able to copy `researches.json` into the `res` folder of your instance. However, to be able to do this, you must make sure that the mods and modifications you've done to the game didn't modify the original `research.json` file, since, if they did, pasting this mod's `research.json` might break the previously made modifications 
 
 &nbsp;
 &nbsp;
