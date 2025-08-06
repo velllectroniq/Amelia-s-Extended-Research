@@ -1,11 +1,5 @@
 <img width="1196" height="162" alt="image" src="https://github.com/user-attachments/assets/bff5345a-184a-47d9-a557-3f82c5368c96" />
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
 # Amelia's Extended Research
 Infinitode 2 Mod focused on Endless Research, adding 90,298 new research levels, which is an increase of 627% over the vanilla game's Endless Research.
 
@@ -30,7 +24,7 @@ __AER__ (Amelia's Extended Research, also known as the mod you're currently view
 
 This graphic of the Endless Research Tree illustrates it the best:
 
-<img width="1115" height="755" alt="image" src="https://github.com/user-attachments/assets/ebfa84a1-06f7-4578-8dcb-9d06f8bd576e" />
+<img width="892" height="604" alt="image" src="https://github.com/user-attachments/assets/8f856f54-e399-47f4-9d07-9402fd190cf1" />
 
 - Light blue nodes indicate limitless research (research that goes up to level 255 (and possibly beyond...))
 - Red nodes show research that was changed, but which can't go up to level 255 because it would break the game (by allowing a division by 0 for example) or wouldn't make any sense (chance of something happening being bigger than 100%), which means that the research is in some way limited, but rest easy knowing that it was for a good reason
