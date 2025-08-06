@@ -15,7 +15,7 @@ __AEE__ (Amelia's Extended Research, also known as the mod you're currently view
 
 This graphic illustrates it the best:
 
-<img width="223" height="151" alt="image" src="https://github.com/user-attachments/assets/3440bf48-c599-4ee9-8603-8a5257eba253" />
+<img width="1115" height="755" alt="image" src="https://github.com/user-attachments/assets/ebfa84a1-06f7-4578-8dcb-9d06f8bd576e" />
 
 - Light blue squares indicate limitless research (research that goes up to level 255 and possibly beyond...)
 - Red squares show research that was changed, but which can't go up to level 255 because it would break the game (by allowing a division by 0 for example) or wouldn't make any sense (chance of something happening being bigger than 100%), which means that the research is in some way limited, but rest easy knowing that it was for a good reason
