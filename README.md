@@ -1,4 +1,4 @@
-# Amelia's Extended Research
+<img width="223" height="151" alt="image" src="https://github.com/user-attachments/assets/4814519d-7240-4cfe-be56-1458378d26c9" /># Amelia's Extended Research
 Infinitode 2 Mod focused on Endless Research, adding 90,298 new research levels, which is an increase of 627% over the vanilla game.
 The mod extends _ONLY_ the Endless Research, leaving the Normal Research Tree untouched. For now, the extension is limited to adding new levels to the already existing research, and slightly adjusting some of them, to make the overall research experience more enjoyable/rewarding.
 
@@ -7,12 +7,14 @@ _Remember to use this mod only for single player experience - any use of modific
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
 
-## OK, but what, who, why, how, where, when, which...
+## OK, but what, why, who, how, where, when, which...
 __AEE__ (Amelia's Extended Research, also known as the mod you're currently viewing) increases most Endless' Research maximal level to 255 (while in the vanilla game, there is only one reseach that goes that far). This essentially means that all Towers, Modifiers, Miners, and virtually all aspects of the original game get their statistic and values significantly increased.
 
 This graphic illustrates it the best:
-<!-- insert image here -->
+<img width="223" height="151" alt="image" src="https://github.com/user-attachments/assets/3440bf48-c599-4ee9-8603-8a5257eba253" />
 - Light blue squares indicate limitless research (research that goes up to level 255 and possibly beyond...)
 - Red squares show research that was changed, but which can't go up to level 255 because it would break the game (by allowing a division by 0 for example) or wouldn't make any sense (chance of something happening being bigger than 100%), which means that the research is in some way limited, but rest easy knowing that it was for a good reason
 - Gold squares indicate research that didn't change compared to vanilla
@@ -20,11 +22,13 @@ This graphic illustrates it the best:
 ### Star Research
 If you worry still about the specific order in which you have to purchase star research - don't worry, since in this mod, star research is modified so that completing all levels is able to give you the abillity of purchasing all star research
 
-### Research Ticket
-You might want to oget yourself a healthy supply of those, since some research require more than 999M green papers, for example, which is impossible to get - and here research tickets come to rescue, since they bypass research cost, thus allowing you to purchase previously inaccesible research levels
+### Research Tickets
+You might want to get yourself a healthy supply of those, since some research require more than 999M green papers, for example, which is impossible to get - and here research tickets come to rescue, since they bypass research cost, thus allowing you to purchase previously inaccesible research levels
 
 p.s. when I say a 'healthy supply', I do mean a _rather large_ supply, because that's the only way of purchasing _most_ (but not all) higher levels of _most_ (but not all) research
 
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
@@ -56,8 +60,10 @@ That should be it.
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
 
 ## Contact the Developer
-If you have any more questions, check out Infinitode 2 Discord - my Discord hanlde is _squaredot (SquareDot)
+If you have any more questions, check out Infinitode 2 Discord - my Discord handle is _squaredot (SquareDot)
 
 
