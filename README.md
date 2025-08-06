@@ -18,7 +18,7 @@ ___Remember to use this mod only for single player experience - any use of modif
 &nbsp;
 
 ## OK, but what, why, who, how, where, when, which...
-__AEE__ (Amelia's Extended Research, also known as the mod you're currently viewing) increases most Endless' Research maximal level to 255 (while in the vanilla game, there is only one reseach that goes that far). This essentially means that all Towers, Modifiers, Miners, and virtually all aspects of the original game get their statistics and values significantly increased.
+__AER__ (Amelia's Extended Research, also known as the mod you're currently viewing) increases most Endless' Research maximal level to 255 (while in the vanilla game, there is only one reseach that goes that far). This essentially means that all Towers, Modifiers, Miners, and virtually all aspects of the original game get their statistics and values significantly increased.
 
 This graphic of the Endless Research Tree illustrates it the best:
 
