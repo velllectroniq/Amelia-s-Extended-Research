@@ -4964,7 +4964,7 @@
   {
    "name": "MINER_TYPE_TENSOR",
    "category": "MINER_TYPE_TENSOR",
-   "x": 3440,
+   "x": 3120,
    "y": 4400,
    "maxEndlessModeLevels": 255,
    "comment": "",
@@ -5028,7 +5028,7 @@
   {
    "name": "MINER_TYPE_INFIAR",
    "category": "MINER_TYPE_INFIAR",
-   "x": 3440,
+   "x": 3120,
    "y": 5200,
    "maxEndlessModeLevels": 255,
    "comment": "",
@@ -10086,7 +10086,7 @@
   {
    "name": "ABILITY_MAGNET",
    "category": "ABILITY_MAGNET",
-   "x": 3120,
+   "x": 3440,
    "y": 4560,
    "maxEndlessModeLevels": 255,
    "comment": "",
@@ -10314,7 +10314,7 @@
   {
    "name": "ABILITY_BALL_LIGHTNING",
    "category": "ABILITY_BALL_LIGHTNING",
-   "x": 3120,
+   "x": 3440,
    "y": 5040,
    "maxEndlessModeLevels": 255,
    "comment": "",
@@ -10429,7 +10429,7 @@
   {
    "name": "ABILITY_LOIC",
    "category": "ABILITY_LOIC",
-   "x": 3120,
+   "x": 3440,
    "y": 5360,
    "maxEndlessModeLevels": 255,
    "comment": "",
@@ -26519,7 +26519,7 @@
   {
    "name": "MINER_TENSOR_INSTALL_DURATION",
    "category": "MINER_INSTALL_DURATION",
-   "x": 3600,
+   "x": 2960,
    "y": 4560,
    "maxEndlessModeLevels": 20,
    "comment": "",
@@ -26633,7 +26633,7 @@
   {
    "name": "MINER_INFIAR_INSTALL_DURATION",
    "category": "MINER_INSTALL_DURATION",
-   "x": 3600,
+   "x": 2960,
    "y": 5360,
    "maxEndlessModeLevels": 22,
    "comment": "",
@@ -26865,7 +26865,7 @@
    "name": "ABILITY_FIREBALL_FIRE_DAMAGE",
    "category": "ABILITY_FIREBALL_FIRE_DAMAGE",
    "x": 3760,
-   "y": 2800,
+   "y": 2640,
    "maxEndlessModeLevels": 255,
    "comment": "",
    "d3x": 52.875,
@@ -27280,7 +27280,7 @@
    "name": "ABILITY_THUNDER_CHARGES_COUNT",
    "category": "ABILITY_THUNDER_CHARGES_COUNT",
    "x": 3760,
-   "y": 3760,
+   "y": 3600,
    "maxEndlessModeLevels": 255,
    "comment": "",
    "d3x": -63.449,
@@ -27462,7 +27462,7 @@
    "name": "ABILITY_FIRESTORM_DURATION",
    "category": "ABILITY_FIRESTORM_DURATION",
    "x": 2800,
-   "y": 4400,
+   "y": 4240,
    "maxEndlessModeLevels": 255,
    "comment": "",
    "d3x": -310.884,
@@ -27527,7 +27527,7 @@
    "name": "ABILITY_SMOKE_BOMB_DAMAGE",
    "category": "ABILITY_SMOKE_BOMB_DAMAGE",
    "x": 3600,
-   "y": 4240,
+   "y": 4080,
    "maxEndlessModeLevels": 255,
    "comment": "",
    "d3x": 143.326,
@@ -27643,7 +27643,7 @@
    "name": "ABILITY_SMOKE_BOMB_DURATION",
    "category": "ABILITY_SMOKE_BOMB_DURATION",
    "x": 3760,
-   "y": 4240,
+   "y": 4080,
    "maxEndlessModeLevels": 255,
    "comment": "",
    "d3x": 160.969,
@@ -27708,8 +27708,8 @@
   {
    "name": "ABILITY_MAGNET_DAMAGE_MULTIPLIER",
    "category": "ABILITY_MAGNET_DAMAGE_MULTIPLIER",
-   "x": 2960,
-   "y": 4720,
+   "x": 3600,
+   "y": 4560,
    "maxEndlessModeLevels": 255,
    "comment": "",
    "d3x": 74.05,
@@ -27826,7 +27826,7 @@
    "name": "ABILITY_BULLET_WALL_DAMAGE",
    "category": "ABILITY_BULLET_WALL_DAMAGE",
    "x": 3600,
-   "y": 5040,
+   "y": 4880,
    "maxEndlessModeLevels": 255,
    "comment": "",
    "d3x": -24.711,
@@ -27943,7 +27943,7 @@
    "name": "ABILITY_BULLET_WALL_DENSITY",
    "category": "ABILITY_BULLET_WALL_DENSITY",
    "x": 3760,
-   "y": 5040,
+   "y": 4880,
    "maxEndlessModeLevels": 255,
    "comment": "",
    "d3x": -56.969,
@@ -28008,8 +28008,8 @@
   {
    "name": "ABILITY_BALL_LIGHTNING_DAMAGE",
    "category": "ABILITY_BALL_LIGHTNING_DAMAGE",
-   "x": 2960,
-   "y": 5200,
+   "x": 3600,
+   "y": 5040,
    "maxEndlessModeLevels": 255,
    "comment": "",
    "d3x": -8.47,
@@ -28125,8 +28125,8 @@
   {
    "name": "ABILITY_BALL_LIGHTNING_DURATION",
    "category": "ABILITY_BALL_LIGHTNING_DURATION",
-   "x": 2800,
-   "y": 5200,
+   "x": 3760,
+   "y": 5040,
    "maxEndlessModeLevels": 255,
    "comment": "",
    "d3x": -27.923,
@@ -28192,7 +28192,7 @@
   {
    "name": "ABILITY_LOIC_DAMAGE",
    "category": "ABILITY_LOIC_DAMAGE",
-   "x": 2960,
+   "x": 3600,
    "y": 5360,
    "maxEndlessModeLevels": 255,
    "comment": "",
@@ -28310,7 +28310,7 @@
   {
    "name": "ABILITY_LOIC_DURATION",
    "category": "ABILITY_LOIC_DURATION",
-   "x": 2800,
+   "x": 3760,
    "y": 5360,
    "maxEndlessModeLevels": 255,
    "comment": "",
@@ -28373,7 +28373,7 @@
    "name": "ABILITY_NUKE_DAMAGE",
    "category": "ABILITY_NUKE_DAMAGE",
    "x": 3600,
-   "y": 5680,
+   "y": 5520,
    "maxEndlessModeLevels": 255,
    "comment": "",
    "d3x": 66.061,
@@ -28606,7 +28606,7 @@
    "name": "MODIFIER_ATTACK_SPEED_VALUE",
    "category": "MODIFIER_ATTACK_SPEED_VALUE",
    "x": 3600,
-   "y": 3920,
+   "y": 3760,
    "maxEndlessModeLevels": 255,
    "comment": "",
    "d3x": 213.743,
@@ -28722,7 +28722,7 @@
    "name": "MODIFIER_BOUNTY_VALUE",
    "category": "MODIFIER_BOUNTY_VALUE",
    "x": 2960,
-   "y": 4880,
+   "y": 4720,
    "maxEndlessModeLevels": 255,
    "comment": "",
    "d3x": 249.59,
@@ -28840,7 +28840,7 @@
    "name": "MODIFIER_POWER_VALUE",
    "category": "MODIFIER_POWER_VALUE",
    "x": 3600,
-   "y": 4880,
+   "y": 4720,
    "maxEndlessModeLevels": 255,
    "comment": "",
    "d3x": 269.191,
@@ -29073,7 +29073,7 @@
    "name": "MODIFIER_MINING_SPEED_VALUE",
    "category": "MODIFIER_MINING_SPEED_VALUE",
    "x": 3600,
-   "y": 5840,
+   "y": 5680,
    "maxEndlessModeLevels": 255,
    "comment": "",
    "d3x": -61.735,
@@ -29258,7 +29258,7 @@
    "category": "TOWER_PROJECTILE_SPEED",
    "x": 2320,
    "y": 2160,
-   "maxEndlessModeLevels": 255,
+   "maxEndlessModeLevels": 10,
    "comment": "",
    "d3x": -230.428,
    "d3y": -9.884,
@@ -29267,7 +29267,7 @@
    "levels": [
     {
      "effects": {
-      "TOWERS_PROJECTILE_SPEED": 4
+      "TOWERS_PROJECTILE_SPEED": 3
      },
      "price": {
       "money": 900
@@ -29456,7 +29456,7 @@
    "category": "TOWER_STUN_CHANCE",
    "x": 1680,
    "y": 2160,
-   "maxEndlessModeLevels": 255,
+   "maxEndlessModeLevels": 5,
    "comment": "",
    "d3x": 89.208,
    "d3y": -183.893,
@@ -29478,7 +29478,7 @@
    "category": "MINER_INSTALL_DURATION",
    "x": 2320,
    "y": 2960,
-   "maxEndlessModeLevels": 255,
+   "maxEndlessModeLevels": 1,
    "comment": "",
    "d3x": -335.07,
    "d3y": 183.566,
@@ -29610,7 +29610,7 @@
    "category": "TOWER_PROJECTILE_SPEED",
    "x": 1040,
    "y": 2480,
-   "maxEndlessModeLevels": 255,
+   "maxEndlessModeLevels": 10,
    "comment": "",
    "d3x": 193.951,
    "d3y": -130.345,
@@ -29676,7 +29676,7 @@
    "category": "MODIFIER_TYPE_BOUNTY",
    "x": 1840,
    "y": 2480,
-   "maxEndlessModeLevels": 255,
+   "maxEndlessModeLevels": 5,
    "comment": "",
    "d3x": 131.737,
    "d3y": 57.368,
@@ -29698,7 +29698,7 @@
    "category": "MODIFIER_TYPE_EXPERIENCE",
    "x": 1840,
    "y": 2640,
-   "maxEndlessModeLevels": 255,
+   "maxEndlessModeLevels": 5,
    "comment": "",
    "d3x": 180.15,
    "d3y": 44.22,
@@ -29853,7 +29853,7 @@
    "category": "TOWER_FREEZE_PERCENT",
    "x": 1200,
    "y": 2480,
-   "maxEndlessModeLevels": 255,
+   "maxEndlessModeLevels": 10,
    "comment": "",
    "d3x": 217.217,
    "d3y": -87.875,
@@ -29920,7 +29920,7 @@
    "category": "MODIFIER_TYPE_POWER",
    "x": 1680,
    "y": 2640,
-   "maxEndlessModeLevels": 255,
+   "maxEndlessModeLevels": 5,
    "comment": "",
    "d3x": 134.935,
    "d3y": 6.346,
@@ -29986,7 +29986,7 @@
    "category": "TOWER_UPGRADE_PRICE",
    "x": 1200,
    "y": 3120,
-   "maxEndlessModeLevels": 255,
+   "maxEndlessModeLevels": 1,
    "comment": "",
    "d3x": -362.481,
    "d3y": -82.447,
@@ -30096,7 +30096,7 @@
    "category": "MODIFIER_TYPE_MINING_SPEED",
    "x": 880,
    "y": 2960,
-   "maxEndlessModeLevels": 255,
+   "maxEndlessModeLevels": 5,
    "comment": "",
    "d3x": -180.26,
    "d3y": -12.66,
@@ -30228,7 +30228,7 @@
    "category": "MINER_INSTALL_DURATION",
    "x": 1360,
    "y": 2000,
-   "maxEndlessModeLevels": 255,
+   "maxEndlessModeLevels": 1,
    "comment": "",
    "d3x": 124.715,
    "d3y": 133.315,
@@ -30237,7 +30237,7 @@
    "levels": [
     {
      "effects": {
-      "MINERS_INSTALL_DURATION": -6
+      "MINERS_INSTALL_DURATION": -3
      },
      "price": {
       "money": 3000
@@ -30619,7 +30619,7 @@
   {
    "name": "MINER_TENSOR_SPEED",
    "category": "MINER_SPEED",
-   "x": 3600,
+   "x": 2960,
    "y": 4400,
    "maxEndlessModeLevels": 255,
    "comment": "",
@@ -30734,7 +30734,7 @@
   {
    "name": "MINER_INFIAR_SPEED",
    "category": "MINER_SPEED",
-   "x": 3600,
+   "x": 2960,
    "y": 5200,
    "maxEndlessModeLevels": 255,
    "comment": "",
@@ -34894,7 +34894,7 @@
   {
    "name": "ABILITY_OVERLOAD",
    "category": "ABILITY_OVERLOAD",
-   "x": 3120,
+   "x": 3440,
    "y": 4400,
    "maxEndlessModeLevels": 255,
    "comment": "",
@@ -35631,7 +35631,7 @@
    "category": "ENEMIES_SPEED",
    "x": 1520,
    "y": 2000,
-   "maxEndlessModeLevels": 255,
+   "maxEndlessModeLevels": 25,
    "comment": "",
    "d3x": 125.459,
    "d3y": 175.724,
@@ -35697,7 +35697,7 @@
    "category": "ABILITIES_ENERGY_GENERATION_INTERVAL",
    "x": 1200,
    "y": 2800,
-   "maxEndlessModeLevels": 255,
+   "maxEndlessModeLevels": 1,
    "comment": "",
    "d3x": 278.534,
    "d3y": 91.173,
@@ -41481,7 +41481,7 @@
   {
    "name": "MINER_TENSOR_LOOT_SLOTS",
    "category": "MINERS_LOOT_SLOTS",
-   "x": 3760,
+   "x": 2800,
    "y": 4560,
    "maxEndlessModeLevels": 10,
    "comment": "",
@@ -41504,7 +41504,7 @@
   {
    "name": "MINER_TENSOR_MAX_UPGRADE_LEVEL",
    "category": "MINERS_MAX_UPGRADE_LEVEL",
-   "x": 3440,
+   "x": 3120,
    "y": 4560,
    "maxEndlessModeLevels": 7,
    "comment": "",
@@ -41534,7 +41534,7 @@
   {
    "name": "MINER_INFIAR_LOOT_SLOTS",
    "category": "MINERS_LOOT_SLOTS",
-   "x": 3760,
+   "x": 2800,
    "y": 5360,
    "maxEndlessModeLevels": 10,
    "comment": "",
@@ -41557,7 +41557,7 @@
   {
    "name": "MINER_INFIAR_MAX_UPGRADE_LEVEL",
    "category": "MINERS_MAX_UPGRADE_LEVEL",
-   "x": 3440,
+   "x": 3120,
    "y": 5360,
    "maxEndlessModeLevels": 7,
    "comment": "",
@@ -41673,7 +41673,7 @@
    "name": "CRAFTING_MAX_STACK",
    "category": "LOOT_RARITY",
    "x": 3600,
-   "y": 6000,
+   "y": 5840,
    "maxEndlessModeLevels": 255,
    "comment": "",
    "d3x": -73.87,
@@ -41730,8 +41730,8 @@
   {
    "name": "ABILITY_OVERLOAD_MINING_SPEED",
    "category": "ABILITY_OVERLOAD_MINING_SPEED",
-   "x": 2960,
-   "y": 4560,
+   "x": 3600,
+   "y": 4400,
    "maxEndlessModeLevels": 255,
    "comment": "",
    "d3x": -262.025,
@@ -41794,8 +41794,8 @@
   {
    "name": "ABILITY_OVERLOAD_DIFFICULTY",
    "category": "ABILITY_OVERLOAD_DIFFICULTY",
-   "x": 2960,
-   "y": 4400,
+   "x": 3600,
+   "y": 4240,
    "maxEndlessModeLevels": 255,
    "comment": "",
    "d3x": -290.744,
@@ -44599,7 +44599,7 @@
    "category": "MODIFIER_TYPE_BALANCE",
    "x": 2000,
    "y": 2640,
-   "maxEndlessModeLevels": 255,
+   "maxEndlessModeLevels": 5,
    "comment": "",
    "d3x": -246.05,
    "d3y": 136.503,
@@ -45214,8 +45214,8 @@
   {
    "name": "ABILITY_OVERLOAD_BONUS_PER_DIFFICULTY",
    "category": "ABILITY_OVERLOAD_BONUS_PER_DIFFICULTY",
-   "x": 2800,
-   "y": 4560,
+   "x": 3760,
+   "y": 4240,
    "maxEndlessModeLevels": 255,
    "comment": "",
    "d3x": -325.873,
@@ -45262,7 +45262,7 @@
   {
    "name": "MODIFIER_BOUNTY_PERCENT",
    "category": "MODIFIER_BOUNTY_PERCENT",
-   "x": 3120,
+   "x": 2960,
    "y": 4880,
    "maxEndlessModeLevels": 255,
    "comment": "",
@@ -48127,7 +48127,7 @@
    "child": "MINER_TYPE_TENSOR",
    "requiredLevels": 1,
    "requiredLevelsLabelPos": 0.5,
-   "pivotX": 3440,
+   "pivotX": 3120,
    "pivotY": 4400
   },
   {
@@ -48135,7 +48135,7 @@
    "child": "MINER_TYPE_INFIAR",
    "requiredLevels": 1,
    "requiredLevelsLabelPos": 0.5,
-   "pivotX": 3440,
+   "pivotX": 3120,
    "pivotY": 5200
   },
   {
@@ -48543,7 +48543,7 @@
    "child": "ABILITY_MAGNET",
    "requiredLevels": 1,
    "requiredLevelsLabelPos": 0.5,
-   "pivotX": 3120,
+   "pivotX": 3440,
    "pivotY": 4560
   },
   {
@@ -48559,7 +48559,7 @@
    "child": "ABILITY_BALL_LIGHTNING",
    "requiredLevels": 1,
    "requiredLevelsLabelPos": 0.5,
-   "pivotX": 3120,
+   "pivotX": 3440,
    "pivotY": 5040
   },
   {
@@ -48567,7 +48567,7 @@
    "child": "ABILITY_LOIC",
    "requiredLevels": 1,
    "requiredLevelsLabelPos": 0.5,
-   "pivotX": 3120,
+   "pivotX": 3440,
    "pivotY": 5360
   },
   {
@@ -50447,7 +50447,7 @@
    "child": "MINER_TENSOR_INSTALL_DURATION",
    "requiredLevels": 1,
    "requiredLevelsLabelPos": 0.5,
-   "pivotX": 3600,
+   "pivotX": 2960,
    "pivotY": 4560
   },
   {
@@ -50455,7 +50455,7 @@
    "child": "MINER_INFIAR_INSTALL_DURATION",
    "requiredLevels": 1,
    "requiredLevelsLabelPos": 0.5,
-   "pivotX": 3600,
+   "pivotX": 2960,
    "pivotY": 5360
   },
   {
@@ -50472,7 +50472,7 @@
    "requiredLevels": 5,
    "requiredLevelsLabelPos": 0.5,
    "pivotX": 3760,
-   "pivotY": 2800
+   "pivotY": 2640
   },
   {
    "parent": "ABILITY_BLIZZARD",
@@ -50504,7 +50504,7 @@
    "requiredLevels": 3,
    "requiredLevelsLabelPos": 0.5,
    "pivotX": 3760,
-   "pivotY": 3760
+   "pivotY": 3600
   },
   {
    "parent": "ABILITY_FIRESTORM",
@@ -50520,7 +50520,7 @@
    "requiredLevels": 5,
    "requiredLevelsLabelPos": 0.5,
    "pivotX": 2800,
-   "pivotY": 4400
+   "pivotY": 4240
   },
   {
    "parent": "ABILITY_SMOKE_BOMB",
@@ -50528,7 +50528,7 @@
    "requiredLevels": 3,
    "requiredLevelsLabelPos": 0.484375,
    "pivotX": 3600,
-   "pivotY": 4240
+   "pivotY": 4080
   },
   {
    "parent": "ABILITY_SMOKE_BOMB_DAMAGE",
@@ -50536,15 +50536,15 @@
    "requiredLevels": 5,
    "requiredLevelsLabelPos": 0.5,
    "pivotX": 3760,
-   "pivotY": 4240
+   "pivotY": 4080
   },
   {
    "parent": "ABILITY_MAGNET",
    "child": "ABILITY_MAGNET_DAMAGE_MULTIPLIER",
    "requiredLevels": 5,
    "requiredLevelsLabelPos": 0.5,
-   "pivotX": 2960,
-   "pivotY": 4720
+   "pivotX": 3600,
+   "pivotY": 4560
   },
   {
    "parent": "ABILITY_BULLET_WALL",
@@ -50552,7 +50552,7 @@
    "requiredLevels": 3,
    "requiredLevelsLabelPos": 0.5,
    "pivotX": 3600,
-   "pivotY": 5040
+   "pivotY": 4880
   },
   {
    "parent": "ABILITY_BULLET_WALL_DAMAGE",
@@ -50560,30 +50560,30 @@
    "requiredLevels": 5,
    "requiredLevelsLabelPos": 0.5,
    "pivotX": 3760,
-   "pivotY": 5040
+   "pivotY": 4880
   },
   {
    "parent": "ABILITY_BALL_LIGHTNING",
    "child": "ABILITY_BALL_LIGHTNING_DAMAGE",
    "requiredLevels": 3,
    "requiredLevelsLabelPos": 0.5,
-   "pivotX": 2960,
-   "pivotY": 5200
+   "pivotX": 3600,
+   "pivotY": 5040
   },
   {
    "parent": "ABILITY_BALL_LIGHTNING_DAMAGE",
    "child": "ABILITY_BALL_LIGHTNING_DURATION",
    "requiredLevels": 5,
    "requiredLevelsLabelPos": 0.5,
-   "pivotX": 2800,
-   "pivotY": 5200
+   "pivotX": 3760,
+   "pivotY": 5040
   },
   {
    "parent": "ABILITY_LOIC",
    "child": "ABILITY_LOIC_DAMAGE",
    "requiredLevels": 3,
    "requiredLevelsLabelPos": 0.5,
-   "pivotX": 2960,
+   "pivotX": 3600,
    "pivotY": 5360
   },
   {
@@ -50591,7 +50591,7 @@
    "child": "ABILITY_LOIC_DURATION",
    "requiredLevels": 5,
    "requiredLevelsLabelPos": 0.5,
-   "pivotX": 2800,
+   "pivotX": 3760,
    "pivotY": 5360
   },
   {
@@ -50600,7 +50600,7 @@
    "requiredLevels": 3,
    "requiredLevelsLabelPos": 0.4875,
    "pivotX": 3600,
-   "pivotY": 5680
+   "pivotY": 5520
   },
   {
    "parent": "MODIFIER_TYPE_DAMAGE",
@@ -50616,7 +50616,7 @@
    "requiredLevels": 5,
    "requiredLevelsLabelPos": 0.5,
    "pivotX": 3600,
-   "pivotY": 3920
+   "pivotY": 3760
   },
   {
    "parent": "MODIFIER_TYPE_BOUNTY",
@@ -50624,7 +50624,7 @@
    "requiredLevels": 5,
    "requiredLevelsLabelPos": 0.5,
    "pivotX": 2960,
-   "pivotY": 4880
+   "pivotY": 4720
   },
   {
    "parent": "MODIFIER_TYPE_POWER",
@@ -50632,7 +50632,7 @@
    "requiredLevels": 5,
    "requiredLevelsLabelPos": 0.5,
    "pivotX": 3600,
-   "pivotY": 4880
+   "pivotY": 4720
   },
   {
    "parent": "MODIFIER_TYPE_EXPERIENCE",
@@ -50648,7 +50648,7 @@
    "requiredLevels": 5,
    "requiredLevelsLabelPos": 0.5,
    "pivotX": 3600,
-   "pivotY": 5840
+   "pivotY": 5680
   },
   {
    "parent": "ROOT",
@@ -51127,7 +51127,7 @@
    "child": "MINER_TENSOR_SPEED",
    "requiredLevels": 3,
    "requiredLevelsLabelPos": 0.5,
-   "pivotX": 3600,
+   "pivotX": 2960,
    "pivotY": 4400
   },
   {
@@ -51135,7 +51135,7 @@
    "child": "MINER_INFIAR_SPEED",
    "requiredLevels": 3,
    "requiredLevelsLabelPos": 0.5,
-   "pivotX": 3600,
+   "pivotX": 2960,
    "pivotY": 5200
   },
   {
@@ -51607,7 +51607,7 @@
    "child": "ABILITY_OVERLOAD",
    "requiredLevels": 1,
    "requiredLevelsLabelPos": 0.5,
-   "pivotX": 3120,
+   "pivotX": 3440,
    "pivotY": 4400
   },
   {
@@ -52775,7 +52775,7 @@
    "child": "MINER_TENSOR_LOOT_SLOTS",
    "requiredLevels": 3,
    "requiredLevelsLabelPos": 0.5,
-   "pivotX": 3760,
+   "pivotX": 2800,
    "pivotY": 4560
   },
   {
@@ -52783,7 +52783,7 @@
    "child": "MINER_TENSOR_MAX_UPGRADE_LEVEL",
    "requiredLevels": 1,
    "requiredLevelsLabelPos": 0.5,
-   "pivotX": 3440,
+   "pivotX": 3120,
    "pivotY": 4560
   },
   {
@@ -52791,7 +52791,7 @@
    "child": "MINER_INFIAR_LOOT_SLOTS",
    "requiredLevels": 3,
    "requiredLevelsLabelPos": 0.5,
-   "pivotX": 3760,
+   "pivotX": 2800,
    "pivotY": 5360
   },
   {
@@ -52799,7 +52799,7 @@
    "child": "MINER_INFIAR_MAX_UPGRADE_LEVEL",
    "requiredLevels": 1,
    "requiredLevelsLabelPos": 0.5,
-   "pivotX": 3440,
+   "pivotX": 3120,
    "pivotY": 5360
   },
   {
@@ -52824,23 +52824,23 @@
    "requiredLevels": 3,
    "requiredLevelsLabelPos": 0.5,
    "pivotX": 3600,
-   "pivotY": 6000
+   "pivotY": 5840
   },
   {
    "parent": "ABILITY_OVERLOAD",
    "child": "ABILITY_OVERLOAD_MINING_SPEED",
    "requiredLevels": 5,
    "requiredLevelsLabelPos": 0.5,
-   "pivotX": 2960,
-   "pivotY": 4560
+   "pivotX": 3600,
+   "pivotY": 4400
   },
   {
    "parent": "ABILITY_OVERLOAD",
    "child": "ABILITY_OVERLOAD_DIFFICULTY",
    "requiredLevels": 3,
    "requiredLevelsLabelPos": 0.5,
-   "pivotX": 2960,
-   "pivotY": 4400
+   "pivotX": 3600,
+   "pivotY": 4240
   },
   {
    "parent": "MODIFIER_TYPE_BALANCE",
@@ -53711,15 +53711,15 @@
    "child": "ABILITY_OVERLOAD_BONUS_PER_DIFFICULTY",
    "requiredLevels": 3,
    "requiredLevelsLabelPos": 0.5,
-   "pivotX": 2800,
-   "pivotY": 4560
+   "pivotX": 3760,
+   "pivotY": 4240
   },
   {
    "parent": "MODIFIER_TYPE_BOUNTY",
    "child": "MODIFIER_BOUNTY_PERCENT",
    "requiredLevels": 5,
    "requiredLevelsLabelPos": 0.5,
-   "pivotX": 3120,
+   "pivotX": 2960,
    "pivotY": 4880
   },
   {
