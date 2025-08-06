@@ -24,7 +24,7 @@ __AER__ (Amelia's Extended Research, also known as the mod you're currently view
 
 This graphic of the Endless Research Tree illustrates it the best:
 
-<img width="1115" height="755" alt="image" src="https://github.com/user-attachments/assets/2941da10-201f-4898-aee8-f5710e08299a" />
+<img width="1115" height="755" alt="image" src="https://github.com/user-attachments/assets/2941da10-201f-4898-AER8-f5710e08299a" />
 
 - Light blue nodes indicate limitless research (research that goes up to level 255 (and possibly beyond...))
 - Red nodes show research that was changed, but which can't go up to level 255 because it would break the game (by allowing a division by 0 for example) or wouldn't make any sense (chance of something happening being bigger than 100%), which means that the research is in some way limited, but rest easy knowing that it was for a good reason
@@ -56,21 +56,24 @@ Go to the Infinitode 2 Steam page in your library, and go to `Settings > Manage 
 
 This should open a file explorer with a file path to a steam folder simmilar to `...Steam\steamapps\common\Infinitode 2`
 
-Next, create a new folder anywhere in your computer - it will serve as a place in which the new instance of Infinitode will function. The name of the folder can be anything, like `Infinitode 2 Modded AEE`
+Next, create a new folder anywhere in your computer - it will serve as a place in which the new instance of Infinitode will function. The name of the folder can be anything, like `Infinitode 2 Modded AER`
 
-Copy the contents of `...Steam\steamapps\common\Infinitode 2` into `Infinitode 2 Modded AEE`
+Copy the contents of `...Steam\steamapps\common\Infinitode 2` into `Infinitode 2 Modded AER`
 
-From this repository, copy the `steam_appid.txt` into `Infinitode 2 Modded AEE`
+From this repository, copy the `steam_appid.txt` into `Infinitode 2 Modded AER`
 
-Similarly, copy `researches.json` into `Infinitode 2 Modded AEE\res` (Windows might ask you to replace the original research file with the modified one - allow it)
+Similarly, copy `researches.json` into `Infinitode 2 Modded AER\res` (Windows might ask you to replace the original research file with the modified one - allow it)
 
-If you just wanted to extend the research tree, it's done - running `Infinitode 2 Modded AEE\infinitode-2.exe` should create a new game of Infinitode 2, with no progress attached. Please note that this doesn't stop Steam from linking to your Account - I reccomend running the game in Guest mode
+If you just wanted to extend the research tree, it's done - running `Infinitode 2 Modded AER\infinitode-2.exe` should create a new game of Infinitode 2, with no progress attached. Please note that this doesn't stop Steam from linking to your Account - I reccomend running the game in Guest mode
 
 ### 2. Moving saves to the new instance
-If you want to continue your journey with Infinitode 2, but with more (possible) Research, go back to `...Steam\steamapps\common\Infinitode 2`, and copy the `...Steam\steamapps\common\Infinitode 2\saves` into `Infinitode 2 Modded AEE\saves`. This copies all of your previous progress into the modified game
+If you want to continue your journey with Infinitode 2, but with more (possible) Research, go back to `...Steam\steamapps\common\Infinitode 2`, and copy the `...Steam\steamapps\common\Infinitode 2\saves` into `Infinitode 2 Modded AER\saves`. This copies all of your previous progress into the modified game
 
 ### 3. Modifying an existing modded instance of Infinitode 2
-If you have a already working local instance of Infinitode 2, you should be just able to copy `researches.json` into the `res` folder of your instance. However, to be able to do this, you must make sure that the mods and modifications you've done to the game didn't modify the original `research.json` file, since, if they did, pasting this mod's `research.json` might break the previously made modifications 
+If you have a already working local instance of Infinitode 2, you should be just able to copy `researches.json` into the `res` folder of your instance. However, to be able to do this, you must make sure that the mods and modifications you've done to the game didn't modify the original `research.json` file, since, if they did, pasting this mod's `research.json` might break the previously made modifications
+
+### 4. A note about developer mode
+If you want to be able to do everything (in game), copy `mod_id.txt` into your `Infinitode 2 Modded AER` folder and restart the game. After executing it again, you should get your trophy, and get access to the developer command
 
 &nbsp;
 &nbsp;
@@ -81,4 +84,4 @@ If you have a already working local instance of Infinitode 2, you should be just
 ## Contact the Developer
 If you have any more questions, check out Infinitode 2 Discord - my Discord handle is _squaredot (SquareDot)
 
-Also, yes, my real name is Amelia, and that's why the mod is named like that
+Also, yes, my real (chosen) name is Amelia, and that's why the mod is named like that
