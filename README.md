@@ -24,7 +24,7 @@ __AER__ (Amelia's Extended Research, also known as the mod you're currently view
 
 This graphic of the Endless Research Tree illustrates it the best:
 
-<img width="1115" height="755" alt="image" src="https://github.com/user-attachments/assets/2941da10-201f-4898-AER8-f5710e08299a" />
+<img width="1115" height="755" alt="image" src="https://github.com/user-attachments/assets/64da11b6-a8a1-4516-a9a0-67811cfc722b" />
 
 - Light blue nodes indicate limitless research (research that goes up to level 255 (and possibly beyond...))
 - Red nodes show research that was changed, but which can't go up to level 255 because it would break the game (by allowing a division by 0 for example) or wouldn't make any sense (chance of something happening being bigger than 100%), which means that the research is in some way limited, but rest easy knowing that it was for a good reason
