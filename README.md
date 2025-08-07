@@ -47,12 +47,24 @@ p.s. when I say a 'healthy supply', I do mean a _rather large_ supply, because t
 &nbsp;
 &nbsp;
 
+## Planned features
+1. Balance, especially near the start of Endless mode, and Star research, which is currently _overpowered_
+2. Deep Endless Tree
+3. _Even more levels???_
+4. More difficulty levels, so that the game doesn't get _too_ easy
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 ## Installation (How To/How Do I/etc.)
 ### 0. If you don't already, download Infinitode 2
 This mod is intended for use in the Infinitode 2 game, and with any other game there is a possibility that it won't work
 
 ### 1. Creating a new instance of Infinitode 2
-Go to the Infinitode 2 Steam page in your library, and go to `Settings > Manage > Browse local files`:
+Go to the Infinitode 2 Steam page in your library, and go to `Settings > Manage > Browse local files`
 
 This should open a file explorer with a file path to a steam folder simmilar to `...Steam\steamapps\common\Infinitode 2`
 
