@@ -29201,7 +29201,7 @@
    "levels": [
     {
      "effects": {
-      "TOWERS_DAMAGE": 3
+      "TOWERS_DAMAGE": 1
      },
      "price": {
       "money": 300
@@ -29223,7 +29223,7 @@
    "levels": [
     {
      "effects": {
-      "TOWERS_RANGE": 3
+      "TOWERS_RANGE": 0.1
      },
      "price": {
       "money": 600
@@ -29245,7 +29245,7 @@
    "levels": [
     {
      "effects": {
-      "TOWERS_ATTACK_SPEED": 6
+      "TOWERS_ATTACK_SPEED": 1
      },
      "price": {
       "money": 800
@@ -29553,7 +29553,7 @@
    "levels": [
     {
      "effects": {
-      "TOWERS_DAMAGE": 3
+      "TOWERS_DAMAGE": 1
      },
      "price": {
       "money": 2300
@@ -29641,7 +29641,7 @@
    "levels": [
     {
      "effects": {
-      "TOWERS_ATTACK_SPEED": 3
+      "TOWERS_ATTACK_SPEED": 1
      },
      "price": {
       "money": 2000
@@ -29663,7 +29663,7 @@
    "levels": [
     {
      "effects": {
-      "TOWERS_DAMAGE": 2
+      "TOWERS_DAMAGE": 1
      },
      "price": {
       "money": 1700
@@ -29707,7 +29707,7 @@
    "levels": [
     {
      "effects": {
-      "MODIFIER_EXPERIENCE_COUNT": 2
+      "MODIFIER_EXPERIENCE_COUNT": 1
      },
      "price": {
       "money": 2400
@@ -29729,7 +29729,7 @@
    "levels": [
     {
      "effects": {
-      "TOWERS_ATTACK_SPEED": 3
+      "TOWERS_ATTACK_SPEED": 1
      },
      "price": {
       "money": 2700
@@ -29751,8 +29751,8 @@
    "levels": [
     {
      "effects": {
-      "TOWER_SPLASH_PROJECTILE_COUNT": 6,
-      "TOWER_MULTISHOT_PROJECTILE_COUNT": 6
+      "TOWER_SPLASH_PROJECTILE_COUNT": 1,
+      "TOWER_MULTISHOT_PROJECTILE_COUNT": 1
      },
      "price": {
       "money": 2500
@@ -29774,7 +29774,7 @@
    "levels": [
     {
      "effects": {
-      "TOWERS_RANGE": 3
+      "TOWERS_RANGE": 0.1
      },
      "price": {
       "money": 2000
@@ -29929,7 +29929,7 @@
    "levels": [
     {
      "effects": {
-      "MODIFIER_POWER_COUNT": 3
+      "MODIFIER_POWER_COUNT": 1
      },
      "price": {
       "money": 2600
@@ -29973,7 +29973,7 @@
    "levels": [
     {
      "effects": {
-      "TOWERS_RANGE": 3
+      "TOWERS_RANGE": 0.1
      },
      "price": {
       "money": 3500
@@ -30017,7 +30017,7 @@
    "levels": [
     {
      "effects": {
-      "TOWERS_ATTACK_SPEED": 6
+      "TOWERS_ATTACK_SPEED": 1
      },
      "price": {
       "money": 3100
@@ -30061,7 +30061,7 @@
    "levels": [
     {
      "effects": {
-      "TOWERS_ATTACK_SPEED": 3
+      "TOWERS_ATTACK_SPEED": 1
      },
      "price": {
       "money": 3600
@@ -30171,7 +30171,7 @@
    "levels": [
     {
      "effects": {
-      "TOWERS_DAMAGE": 6
+      "TOWERS_DAMAGE": 1
      },
      "price": {
       "money": 3100
@@ -32297,7 +32297,7 @@
    "levels": [
     {
      "effects": {
-      "LOOT_RARITY": 5
+      "LOOT_RARITY": 2
      },
      "price": {
       "money": 4000
@@ -32381,7 +32381,7 @@
    "d3x": 116.595,
    "d3y": 174.322,
    "d3z": 280.8028571428572,
-   "starsPrice": 41,
+   "starsPrice": 9,
    "levels": [
     {
      "effects": {
@@ -35662,7 +35662,7 @@
    "levels": [
     {
      "effects": {
-      "LOOT_FREQUENCY": 20
+      "LOOT_FREQUENCY": 2
      },
      "price": {
       "money": 10000
@@ -44608,7 +44608,7 @@
    "levels": [
     {
      "effects": {
-      "MODIFIER_BALANCE_COUNT": 2
+      "MODIFIER_BALANCE_COUNT": 1
      },
      "price": {
       "money": 2000
